@@ -1,0 +1,28 @@
+title: Groups in Galway
+description: The annual conference series homepage
+author: GiG Organizers
+url: "https://groupsingalway.github.io"
+baseurl: ""
+
+# Add your google-analytics ID here to activate google analytics
+# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap 
+
+exclude:
+  - LICENSE
+  - .gitignore
+  - README.md
+  - docs
+
+include: 
+  - .htaccess 
+
+# theme: jekyll-theme-midnight
