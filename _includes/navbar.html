@@ -12,7 +12,11 @@
           <a class="nav-link" href="{{"/" | relative_url }}">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{"/registration_closed" | relative_url }}">Registration</a>
+          {% if site.registration == "" %}
+            <a class="nav-link" href="{{"/registration_closed" | relative_url }}">Registration</a>
+          {% else %}
+            <a class="nav-link" href="{{ site.registration }}">Registration</a>
+          {% endif %}
         </li>
         <li class="nav-item">
           <a class="nav-link" href="{{"/travel" | relative_url }}">Travel & Accommodation</a>
@@ -23,9 +27,6 @@
         <li class="nav-item">
           <a class="nav-link" href="{{"/about" | relative_url }}">About</a>
         </li>
-        <!-- <li class="nav-item">
-          <a class="nav-link" href="{{"/contact" | relative_url }}">Contact</a>
-        </li> -->
       </ul>
     </div>
   </div>

@@ -31,7 +31,11 @@ layout: default
 
         <!-- Home Post List -->
         {% for post in site.posts limit : 1 %}
-        <h2 class="post-title">{{ post.title }}</h2>
+        <center>
+          <h1 class="post-title">{{ post.title }}</h1>
+          <h2 class="post-subtitle">{{ post.subtitle }}</h2>
+          <h4 class="post-subtitle">University of Galway</h4>
+        </center>
         {{ post.content }}
         <!-- <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
