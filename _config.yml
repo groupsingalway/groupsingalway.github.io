@@ -1,5 +1,6 @@
 title: Groups in Galway
-description: The annual conference series homepage
+tagline: The annual conference series homepage
+description: The homepage for the annual conference series "Groups in Galway".
 author: GiG Organizers
 url: "https://groupsingalway.github.io"
 baseurl: ""
@@ -15,6 +16,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap 
+  - jykyll-seo-tag
 
 exclude:
   - LICENSE
