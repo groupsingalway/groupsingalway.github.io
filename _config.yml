@@ -16,7 +16,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap 
-  - jykyll-seo-tag
+  - jekyll-seo-tag
 
 exclude:
   - LICENSE
