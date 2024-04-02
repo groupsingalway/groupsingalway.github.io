@@ -23,6 +23,9 @@ exclude:
   - .gitignore
   - README.md
   - docs
+  - participants/extract.py
+  - "*.xlsx"
+  - build.sh
 
 include: 
   - .htaccess 
