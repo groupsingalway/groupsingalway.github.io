@@ -4,3 +4,4 @@ Gemfile.lock
 .DS_Store
 *.xlsx
 extract.py
+.venv
