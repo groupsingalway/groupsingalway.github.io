@@ -18,6 +18,10 @@ plugins:
   - jekyll-sitemap 
   - jekyll-seo-tag
 
+collections:
+  abstracts:
+    output: false
+
 exclude:
   - LICENSE
   - .gitignore
@@ -26,6 +30,7 @@ exclude:
   - participants/extract.py
   - "*.xlsx"
   - build.sh
+  - "abstracts/2024abs/*"
 
 include: 
   - .htaccess 
