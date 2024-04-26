@@ -17,6 +17,6 @@ background: "/img/rory-hennessey-UR-9hOEW-Ww-unsplash-cropped-min.jpeg"
 
 <span id="{{ abs.surname }}">
 ### {{ abs.title }}
-#### {{ abs.speaker }} 
+#### [{{ abs.speaker }}]({{ abs.website }})
 {{ abs.abstract }}
 {% endfor %}
