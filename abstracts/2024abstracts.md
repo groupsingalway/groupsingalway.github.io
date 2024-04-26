@@ -6,7 +6,7 @@ background: "/img/rory-hennessey-UR-9hOEW-Ww-unsplash-cropped-min.jpeg"
 
 # Abstracts
 
-{% assign sorted_abs = site.abstracts %}
+{% assign sorted_abs = site.speakers2024 | sort: "surname" %}
 
 {% for abs in sorted_abs %}
 

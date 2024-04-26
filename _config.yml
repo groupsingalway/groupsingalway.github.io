@@ -18,8 +18,9 @@ plugins:
   - jekyll-sitemap 
   - jekyll-seo-tag
 
+collections_dir: collections
 collections:
-  abstracts:
+  speakers2024:
     output: false
 
 exclude:
