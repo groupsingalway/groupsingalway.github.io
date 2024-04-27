@@ -37,7 +37,7 @@ To make changes of the second type, one needs [Ruby](https://www.ruby-lang.org/e
 
 ### Editing a conference posting
 
-Conference websites are written in markdown in the `_posts` subdirectory. This is modeled off of blogging sites, so files are modeled with the `YYYY-MM-DD-Name.md` format. The website will order the postings in chronological order.
+Conference websites are written in markdown in the `collections/_posts` subdirectory. This is modeled off of blogging sites, so files are modeled with the `YYYY-MM-DD-Name.md` format. The website will order the postings in chronological order.
 
 ### Building 
 
