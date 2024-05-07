@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://groupsingalway.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://groupsingalway.github.io/" rel="alternate" type="text/html" /><updated>2024-05-04T09:53:24+01:00</updated><id>https://groupsingalway.github.io/feed.xml</id><title type="html">Groups in Galway</title><subtitle>The homepage for the annual conference series &quot;Groups in Galway&quot;.</subtitle><author><name>GiG Organizers</name></author><entry><title type="html">Groups in Galway 2024</title><link href="https://groupsingalway.github.io/2024/01/01/GiG2024.html" rel="alternate" type="text/html" title="Groups in Galway 2024" /><published>2024-01-01T16:45:13+00:00</published><updated>2024-01-01T16:45:13+00:00</updated><id>https://groupsingalway.github.io/2024/01/01/GiG2024</id><content type="html" xml:base="https://groupsingalway.github.io/2024/01/01/GiG2024.html"><![CDATA[<center><p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://groupsingalway.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://groupsingalway.github.io/" rel="alternate" type="text/html" /><updated>2024-05-07T15:27:19+01:00</updated><id>https://groupsingalway.github.io/feed.xml</id><title type="html">Groups in Galway</title><subtitle>The homepage for the annual conference series &quot;Groups in Galway&quot;.</subtitle><author><name>GiG Organizers</name></author><entry><title type="html">Groups in Galway 2024</title><link href="https://groupsingalway.github.io/2024/01/01/GiG2024.html" rel="alternate" type="text/html" title="Groups in Galway 2024" /><published>2024-01-01T16:45:13+00:00</published><updated>2024-01-01T16:45:13+00:00</updated><id>https://groupsingalway.github.io/2024/01/01/GiG2024</id><content type="html" xml:base="https://groupsingalway.github.io/2024/01/01/GiG2024.html"><![CDATA[<center><p>
     <a href="https://irishmathsoc.org/"><img width="150" src="/img/ims-2t.png" alt="Irish Mathematical Society logo" /></a>
     &nbsp;
     <a href="https://www.universityofgalway.ie/registrar/" alt="The University of Galway logo with some text"><img width="400" src="/img/University_Of_Galway_Logo__Positive_Landscape_RGB.png" /></a>
@@ -19,15 +19,114 @@
 
 <p><a href="https://groupsingalway.github.io/participants/2024list.html">Participants</a></p>
 
-<h3 id="schedule-and-abstracts">Schedule and Abstracts</h3>
+<h3 id="schedule--abstracts">Schedule &amp; Abstracts</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th><span style="display: inline-block; width:160px">Thursday</span></th>
+      <th><span style="display: inline-block; width:200px"></span></th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10:00 – 10:50</td>
+      <td><a href="https://groupsingalway.github.io/abstracts/2024abstracts.html#Stanojkovski">Mima Stanojkovski</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>11:00 – 11:30</td>
+      <td>Coffee Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>11:30 – 12:20</td>
+      <td><a href="https://groupsingalway.github.io/abstracts/2024abstracts.html#Vannacci">Matteo Vannacci</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>12:30 – 14:00</td>
+      <td>Lunch</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>14:00 – 14:50</td>
+      <td><a href="https://groupsingalway.github.io/abstracts/2024abstracts.html#Soergel">Mireille Soergel</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>15:00 – 15:30</td>
+      <td>Coffee Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>15:30 – 16:20</td>
+      <td><a href="https://groupsingalway.github.io/abstracts/2024abstracts.html#Zozaya">Andoni Zozaya</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>16:30 – 17:20</td>
+      <td><a href="https://groupsingalway.github.io/abstracts/2024abstracts.html#Glazer">Itay Glazer</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>17:30 – 19:00</td>
+      <td>Reception</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>19:30</td>
+      <td><a href="https://groupsingalway.github.io#ConferenceDinner">Dinner</a></td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p></p>
+
+<table>
+  <thead>
+    <tr>
+      <th><span style="display: inline-block; width:160px">Friday</span></th>
+      <th><span style="display: inline-block; width:200px"></span></th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9:30 – 10:20</td>
+      <td><a href="https://groupsingalway.github.io/abstracts/2024abstracts.html#Lederle">Waltraud Lederle</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>10:30 – 11:00</td>
+      <td>Coffee Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>11:00 – 11:50</td>
+      <td><a href="https://groupsingalway.github.io/abstracts/2024abstracts.html#Bruno">Anna Giordano Bruno</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>12:00 – 12:50</td>
+      <td><a href="https://groupsingalway.github.io/abstracts/2024abstracts.html#Evetts">Alex Evetts</a></td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
 
 <p><a href="https://groupsingalway.github.io/abstracts/2024abstracts.html">Abstracts</a></p>
 
-<p>Schedule coming soon.</p>
-
+<p><span id="ConferenceDinner"></span></p>
 <h3 id="conference-dinner">Conference Dinner</h3>
 
-<p>The conference dinner will take place on Thursday 16 May. More details are coming soon.</p>
+<p>The conference dinner will take place at <a href="https://brasseriegalway.com/">Brasserie</a> on Thursday 16 May. If you wish to attend the conference dinner, please register during the conference. At that point, please also inform us of dietary requirements that you may have.</p>
+
+<p>The dinner is included for speakers. Participants are asked to pay €30 (cash only) before the lunch break on Thursday; PhD students will be asked to pay a reduced amount. Note that all participants will need to pay for their drinks.</p>
+
+<p><a href="https://maps.app.goo.gl/YWdJuV13YkCPwmDW8">Brasserie in GoogleMaps</a></p>
 
 <hr />
 

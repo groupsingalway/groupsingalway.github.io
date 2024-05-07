@@ -9180,9 +9180,10 @@ a.text-dark:hover, a.text-dark:focus {
 }
 body {
   font-size: 20px;
-  color: #212529;
+  color: black;
 }
 body a {
+  color: #A80050;
   text-decoration: underline;
 }
 
@@ -9204,7 +9205,7 @@ h6 {
 }
 
 a {
-  color: #212529;
+  color: #A80050;
 }
 a:focus, a:hover {
   color: #0085A1;
@@ -9471,7 +9472,7 @@ header.masthead .post-heading .meta a {
 }
 
 .post-preview > a {
-  color: #212529;
+  color: #A80050;
   text-decoration: underline;
 }
 .post-preview > a:focus, .post-preview > a:hover {

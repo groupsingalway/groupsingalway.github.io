@@ -1,9 +1,10 @@
 // Global styling for this template
 body {
     font-size: 20px;
-    color: $gray-900;
+    color: black;
 
     a {
+        color:#A80050;
         text-decoration: underline;
     }
 }
@@ -27,7 +28,7 @@ h6 {
 }
 
 a {
-    color:$gray-900;
+    color:#A80050;
 
     &:focus,
     &:hover {
