@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://groupsingalway.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://groupsingalway.github.io/" rel="alternate" type="text/html" /><updated>2024-05-16T13:48:16+01:00</updated><id>https://groupsingalway.github.io/feed.xml</id><title type="html">Groups in Galway</title><subtitle>The homepage for the annual conference series &quot;Groups in Galway&quot;.</subtitle><author><name>GiG Organizers</name></author><entry><title type="html">Groups in Galway 2024</title><link href="https://groupsingalway.github.io/2024/01/01/GiG2024.html" rel="alternate" type="text/html" title="Groups in Galway 2024" /><published>2024-01-01T16:45:13+00:00</published><updated>2024-01-01T16:45:13+00:00</updated><id>https://groupsingalway.github.io/2024/01/01/GiG2024</id><content type="html" xml:base="https://groupsingalway.github.io/2024/01/01/GiG2024.html"><![CDATA[<center><p>
-    <a href="https://irishmathsoc.org/"><img width="150" src="/img/ims-2t.png" alt="Irish Mathematical Society logo" /></a>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://groupsingalway.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://groupsingalway.github.io/" rel="alternate" type="text/html" /><updated>2024-05-21T14:47:37+01:00</updated><id>https://groupsingalway.github.io/feed.xml</id><title type="html">Groups in Galway</title><subtitle>The homepage for the annual conference series &quot;Groups in Galway&quot;.</subtitle><author><name>GiG Organizers</name></author><entry><title type="html">Groups in Galway 2024</title><link href="https://groupsingalway.github.io/2024/01/01/GiG2024.html" rel="alternate" type="text/html" title="Groups in Galway 2024" /><published>2024-01-01T16:45:13+00:00</published><updated>2024-01-01T16:45:13+00:00</updated><id>https://groupsingalway.github.io/2024/01/01/GiG2024</id><content type="html" xml:base="https://groupsingalway.github.io/2024/01/01/GiG2024.html"><![CDATA[<center><p>
+    <a href="https://irishmathsoc.org/"><img width="150" src="/img/2024/ims-2t.png" alt="Irish Mathematical Society logo" /></a>
     &nbsp;
-    <a href="https://www.universityofgalway.ie/registrar/" alt="The University of Galway logo with some text"><img width="400" src="/img/University_Of_Galway_Logo__Positive_Landscape_RGB.png" /></a>
-    <a href="https://www.advance-he.ac.uk/equality-charters/international-charters/athena-swan-ireland" alt="The Athena Swan logo"><img width="250" src="/img/Athena-Swan.png" /></a>
+    <a href="https://www.universityofgalway.ie/registrar/" alt="The University of Galway logo with some text"><img width="400" src="/img/2024/University_Of_Galway_Logo__Positive_Landscape_RGB.png" /></a>
+    <a href="https://www.advance-he.ac.uk/equality-charters/international-charters/athena-swan-ireland" alt="The Athena Swan logo"><img width="250" src="/img/2024/Athena-Swan.png" /></a>
 </p></center>
 
 <h3 id="speakers">Speakers:</h3>
@@ -17,6 +17,10 @@
   <li><a href="https://sites.google.com/view/matteovannacci/home">Matteo Vannacci</a> (University of the Basque Country)</li>
   <li><a href="https://sites.google.com/view/andonizozaya/orrialdea">Andoni Zozaya</a> (University of Ljubljana)</li>
 </ul>
+
+<center>
+<a href="https://groupsingalway.github.io/img/2024/GiG24.png"><img width="600" src="/img/2024/GiG24_smaller.png" alt="The participants of Groups in Galway 2024" /></a>
+</center>
 
 <p><a href="https://groupsingalway.github.io/participants/2024list.html">Participants</a></p>
 
@@ -138,7 +142,7 @@ for their drinks.</p>
 
 <h3 id="sponsors">Sponsors</h3>
 
-<p>Groups in Galway 2024 is graciously supported by</p>
+<p>Groups in Galway 2024 is generously supported by</p>
 <ul>
   <li><a href="https://www.advance-he.ac.uk/equality-charters/international-charters/athena-swan-ireland">Athena Swan Ireland</a></li>
   <li><a href="https://www.universityofgalway.ie/researchcentres/collegeofscience/debrun-centre/">The de Brún Centre of Mathematics</a> at the University of Galway</li>
