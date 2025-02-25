@@ -6,7 +6,7 @@ url: "https://groupsingalway.github.io"
 baseurl: ""
 
 # Registration form. If closed, put "".
-registration: ""
+registration: https://forms.office.com/e/MGNtsG5wgm
 
 # Build settings
 permalink: /posts/:title
@@ -22,6 +22,8 @@ plugins:
 collections_dir: collections
 collections:
   speakers2024:
+    output: false
+  speakers2025:
     output: false
 
 exclude:
