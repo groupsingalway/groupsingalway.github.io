@@ -3,6 +3,6 @@ surname: Baykalov
 speaker: Anton Baykalov
 institution: University of Galway
 website: https://anton-baykalov.github.io/
-title: "TBA"
-abstract: "TBA"
+title: "Imprimitive partial linear spaces and groups of rank 3"
+abstract: "A partial linear space (PLS) is a point-line incidence structure such that each line is incident with at least two points and each pair of points is incident with at most one line. We say that a PLS is proper if there exists at least one non-collinear point pair, and at least one line incident with more than two points. The highest degree of symmetry for a proper PLS occurs when the automorphism group G is transitive on ordered pairs of collinear points, and on ordered pairs of non-collinear points. In this case, G is a transitive rank 3 group on the points. While the primitive rank 3 PLSs are essentially classified, we present the first substantial classification of a family of imprimitive rank 3 examples. We classify all imprimitive rank 3 proper partial linear spaces such that the rank 3 group is  innately transitive (including quasiprimitive cases) or semiprimitive and induces an almost simple group on the unique nontrivial system of imprimitivity. We construct several infinite families of examples and ten individual examples. The examples admit a rank 3 action of a linear or unitary group, and to our knowledge most of our examples have not appeared before in the literature. This is a joint work with Alice Devillers and Cheryl Praeger."
 ---
