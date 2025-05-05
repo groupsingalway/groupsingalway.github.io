@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://groupsingalway.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://groupsingalway.github.io/" rel="alternate" type="text/html" /><updated>2025-04-23T15:21:29+01:00</updated><id>https://groupsingalway.github.io/feed.xml</id><title type="html">Groups in Galway</title><subtitle>The homepage for the annual conference series &quot;Groups in Galway&quot;.</subtitle><author><name>GiG Organizers</name></author><entry><title type="html">Groups in Galway 2025</title><link href="https://groupsingalway.github.io/posts/GiG2025" rel="alternate" type="text/html" title="Groups in Galway 2025" /><published>2024-01-01T16:45:13+00:00</published><updated>2024-01-01T16:45:13+00:00</updated><id>https://groupsingalway.github.io/posts/GiG2025</id><content type="html" xml:base="https://groupsingalway.github.io/posts/GiG2025"><![CDATA[<center><p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://groupsingalway.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://groupsingalway.github.io/" rel="alternate" type="text/html" /><updated>2025-05-05T13:05:36+01:00</updated><id>https://groupsingalway.github.io/feed.xml</id><title type="html">Groups in Galway</title><subtitle>The homepage for the annual conference series &quot;Groups in Galway&quot;.</subtitle><author><name>GiG Organizers</name></author><entry><title type="html">Groups in Galway 2025</title><link href="https://groupsingalway.github.io/posts/GiG2025" rel="alternate" type="text/html" title="Groups in Galway 2025" /><published>2024-01-01T16:45:13+00:00</published><updated>2024-01-01T16:45:13+00:00</updated><id>https://groupsingalway.github.io/posts/GiG2025</id><content type="html" xml:base="https://groupsingalway.github.io/posts/GiG2025"><![CDATA[<center><p>
     <a href="https://irishmathsoc.org/"><img width="150" src="/img/2025/ims-2t.png" alt="Irish Mathematical Society logo" /></a>&nbsp;&nbsp;
     <a href="https://www.researchireland.ie/"><img width="400" src="/img/2025/logo_black.svg" alt="Research Ireland logo" /></a>
 </p></center>
@@ -22,6 +22,97 @@
 <h3 id="schedule--abstracts">Schedule &amp; Abstracts</h3>
 
 <p>All talks will take place in <strong><a href="https://maps.app.goo.gl/oXw8SV6FvhLKyBxH8">AC201</a></strong> on the Concourse of the Arts/Science building.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th><span style="display: inline-block; width:160px">Thursday</span></th>
+      <th><span style="display: inline-block; width:200px"></span></th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10:30 – 11:20</td>
+      <td><a href="https://groupsingalway.github.io/abstracts/2025abstracts.html#Baykalov">Anton Baykalov</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>11:30 – 12:00</td>
+      <td>Coffee &amp; Tea Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>12:00 – 12:50</td>
+      <td><a href="https://groupsingalway.github.io/abstracts/2025abstracts.html#Tracey">Gareth Tracey</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>13:00 – 14:30</td>
+      <td>Lunch</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>14:30 – 15:20</td>
+      <td><a href="https://groupsingalway.github.io/abstracts/2025abstracts.html#Piccolo">Margherita Piccolo</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>15:30 – 16:00</td>
+      <td>Coffee &amp; Tea Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>16:00 – 16:50</td>
+      <td><a href="https://groupsingalway.github.io/abstracts/2025abstracts.html#Nucinkis">Brita Nucinkis</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>17:00 – 19:00</td>
+      <td>Reception &amp; Poster Session</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>19:30</td>
+      <td><a href="https://groupsingalway.github.io#ConferenceDinner">Dinner</a></td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p></p>
+
+<table>
+  <thead>
+    <tr>
+      <th><span style="display: inline-block; width:160px">Friday</span></th>
+      <th><span style="display: inline-block; width:200px"></span></th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9:30 – 10:20</td>
+      <td><a href="https://groupsingalway.github.io/abstracts/2025abstracts.html#De las Heras">Iker de las Heras</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>10:30 – 11:00</td>
+      <td>Coffee &amp; Tea Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>11:00 – 11:50</td>
+      <td><a href="https://groupsingalway.github.io/abstracts/2025abstracts.html#Thillaisundaram">Anitha Thillaisundaram</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>12:00 – 12:50</td>
+      <td><a href="https://groupsingalway.github.io/abstracts/2025abstracts.html#"></a></td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
 
 <p><a href="https://groupsingalway.github.io/abstracts/2025abstracts.html">Abstracts</a></p>
 
