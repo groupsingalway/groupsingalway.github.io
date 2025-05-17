@@ -6,7 +6,7 @@ url: "https://groupsingalway.github.io"
 baseurl: ""
 
 # Registration form. If closed, put "".
-registration: https://forms.office.com/e/MGNtsG5wgm
+registration: ""
 
 # Build settings
 permalink: /posts/:title
